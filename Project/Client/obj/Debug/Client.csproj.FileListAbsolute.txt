@@ -1,0 +1,46 @@
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\bin\Debug\Client.exe.config
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\obj\Debug\Client.formEntrance.resources
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\bin\Debug\Client.exe
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\bin\Debug\Client.pdb
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\obj\Debug\Client.exe
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\obj\Debug\Client.pdb
+c:\users\абишевас\documents\visual studio 2015\Projects\CourseWork\Client\obj\Debug\Client.formMain.resources
+C:\Users\юзер\Downloads\CourseWork\Client\bin\Debug\Client.exe.config
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.exe
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.pdb
+C:\Users\юзер\Downloads\CourseWork\Client\bin\Debug\Client.exe
+C:\Users\юзер\Downloads\CourseWork\Client\bin\Debug\Client.pdb
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.formEntrance.resources
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.formMain.resources
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+\\VBOXSVR\Downloads\CourseWork\Client\bin\Debug\Client.exe.config
+\\VBOXSVR\Downloads\CourseWork\Client\obj\Debug\Client.exe
+\\VBOXSVR\Downloads\CourseWork\Client\obj\Debug\Client.pdb
+C:\Users\юзер\Downloads\CourseWork\Client\obj\Debug\Client.Comments.resources
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\bin\Debug\Client.exe.config
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.exe
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.pdb
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\bin\Debug\Client.exe
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\bin\Debug\Client.pdb
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.formEntrance.resources
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.formMain.resources
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\bin\Debug\Client.exe.config
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.exe
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.pdb
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\bin\Debug\Client.exe
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\bin\Debug\Client.pdb
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.formEntrance.resources
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.formMain.resources
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\юзер\Downloads\CourseWork-light-version\Client\obj\Debug\Client.formComments.resources
+C:\Users\абишевас\Downloads\CourseWork-light-version\Client\obj\Debug\Client.formComments.resources
